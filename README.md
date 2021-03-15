@@ -1,4 +1,4 @@
-# Playground for Javascript
+# Playground - Javascript
 
 ---
 
@@ -8,10 +8,11 @@
 자바스크립트 학습 기록 공간
 ```
 
-## Leture List
+## Leture
 
 ```bash
-A. [데이터 타입] let vs var, hoisting
+01. [데이터 타입] let vs var, hoisting
+02. [연산, 반복문] operator, if, for loop
 ```
 
 ## Sources

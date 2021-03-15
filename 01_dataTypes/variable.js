@@ -15,7 +15,7 @@
 // let a; -> 변수를 선언해야 에러가 발생하지 않음.
 // a = 6;
 
-// 1. 변수(variable) mutable(가변)
+// 1. 변수(variable) mutable(가변), R/W 가능
 // let, const(added in ES6)
 let userName = "unac";
 console.log(userName);
@@ -49,7 +49,7 @@ var age;
 // ie는 미지원하는 기술이 많기 때문에 무시하고 ES6로 개발한 뒤 배포 시 babel을 사용하자.
 console.clear();
 
-// 2. 상수(constants) Immutable(불변)
+// 2. 상수(constant) Immutable(불변) R만 가능
 // 값을 할당한 뒤 변경할 수 없음. (포인터가 잠겨 있음)
 // 상수 사용을 권장하는 이유
 // 1) 보안상 안전 > (해커가 코드를 삽입해서 값을 변경할 수 없기 떄문)

@@ -1,7 +1,5 @@
 # Playground - Javascript
 
----
-
 ## Overview
 
 ```bash
@@ -13,6 +11,7 @@
 ```bash
 01. [데이터 타입] let vs var, hoisting
 02. [연산, 반복문] operator, if, for loop
+03. [함수] function, arrow function(added in ES6)
 ```
 
 ## Sources
